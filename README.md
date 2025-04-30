@@ -1,2 +1,2 @@
-# flare
+# Fairsight Luminary Alerd Radiane Emitter
 Expanding original codebase for long distance lights. Adding Wifi provisioning via BLE.
