@@ -1,5 +1,5 @@
 # Fairsight Luminary Alert Radiance Emitter
 + Expanding original codebase for long distance lights.
 + Adding Wifi provisioning via BLE.
-+ Adding the possibility of one-to-many connection instead of just one-to-one
++ Adding the possibility of one-to-many connection instead of just one-to-one (Any number of devices, scalable logic)
 + Fixed duplicated codebase for each light, by provisioning value via BLE preference.
